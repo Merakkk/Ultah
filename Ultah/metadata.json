@@ -1,6 +1,0 @@
-{
-  "name": "Ucapan Ulang Tahun",
-  "description": "Aplikasi ucapan ulang tahun interaktif dan dapat disesuaikan untuk pasangan tercinta.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
